@@ -1,9 +1,8 @@
 # NewsFeedProject
 An small demo app to complete the project 8. See the Tutorial on our cliffnotes for a step-by-step tutorial.
 
-Time spent: 12 hours implementation (included searching) in total
- - 07/23: 8 hours
- - 07/24: 4 hours
+Time spent: 6 hours implementation (included searching) in total
+ - 07/23: 6 hours
 
 Implement link: https://github.com/TienVNguyen/NewsFeedProject
 

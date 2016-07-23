@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2016. Self Training Systems, Inc - All Rights Reserved
+  ~ Unauthorized copying of this file, via any medium is strictly prohibited
+  ~ Proprietary and confidential
+  ~ Written by TienNguyen <tien.workinfo@gmail.com - tien.workinfo@icloud.com>, October 2015
+  -->
+
+<resources>
+    <string name="app_name">Dự án tin tức</string>
+    <string name="news_title">Tiêu đề:</string>
+    <string name="news_select_name">Phạm vi:</string>
+    <string name="news_date">Ngày:</string>
+    <string name="news_web_url">Link:</string>
+    <string name="message_no_value">Không tồn tại</string>
+    <string name="error_unable_retrieve">Không kết nối thành công để lấy dữ liệu.</string>
+    <string name="error_no_connection">Không có kết nối internet.</string>
+</resources>
