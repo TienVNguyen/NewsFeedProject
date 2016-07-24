@@ -7,12 +7,14 @@
 
 package com.training.tiennguyen.newsfeedproject.models;
 
+import java.io.Serializable;
+
 /**
  * NewsModel
  *
  * @author TienNguyen
  */
-public class NewsModel {
+public class NewsModel implements Serializable {
     /**
      * title
      */
@@ -43,7 +45,7 @@ public class NewsModel {
      * Constructor
      *
      * @param title       String
-     * @param sectionName         String
+     * @param sectionName String
      * @param publishDate String
      * @param link        String
      */

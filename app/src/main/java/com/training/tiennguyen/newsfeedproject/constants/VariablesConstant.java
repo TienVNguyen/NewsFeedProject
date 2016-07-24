@@ -97,4 +97,9 @@ public class VariablesConstant {
      * WEB_URL = "webUrl"
      */
     public static final String WEB_URL = "webUrl";
+
+    /**
+     * ZERO = 0
+     */
+    public static final int ZERO = 0;
 }

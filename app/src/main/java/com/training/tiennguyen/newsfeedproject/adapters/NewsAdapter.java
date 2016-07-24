@@ -28,7 +28,9 @@ import butterknife.ButterKnife;
  * @author TienNguyen
  */
 public class NewsAdapter extends ArrayAdapter<NewsModel> {
-    /** mResource */
+    /**
+     * mResource
+     */
     private int mResource;
 
     /**
@@ -71,16 +73,24 @@ public class NewsAdapter extends ArrayAdapter<NewsModel> {
      * NewsHolder
      */
     protected static class NewsHolder {
-        /** list_item_title */
+        /**
+         * list_item_title
+         */
         @BindView(R.id.list_item_title)
         protected TextView title;
-        /** list_item_tag */
+        /**
+         * list_item_tag
+         */
         @BindView(R.id.list_item_sectionName)
         protected TextView sectionName;
-        /** list_item_publish_date */
+        /**
+         * list_item_publish_date
+         */
         @BindView(R.id.list_item_publish_date)
         protected TextView publishDate;
-        /** list_item_link */
+        /**
+         * list_item_link
+         */
         @BindView(R.id.list_item_link)
         protected TextView link;
 
